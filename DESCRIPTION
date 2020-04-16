@@ -1,0 +1,12 @@
+Package: DoAFortran
+Type: Package
+Title: Do a Fortran thing
+Version: 1.0
+Date: 2020-04-16
+Author: Lucifer Morningstar <luci@lux.edu>
+Maintainer: Lucifer Morningstar <luci@lux.edu>
+Description: It calls a fortran subroutine from R (I'm a sharing devil)
+License: GPL-3
+RoxygenNote: 7.0.2
+Suggests: 
+    testthat
